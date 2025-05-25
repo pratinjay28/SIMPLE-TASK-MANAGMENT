@@ -76,8 +76,7 @@ Task added successfully!
 🗃 Sample Data File (tasks.txt)
 Study OOP|High|2025-06-15|To Do
 Clean room|Medium|2025-06-10|Done
-```bash
-git clone https://github.com/yourusername/SimpleTaskManager.git
+
 
 ✅ Use Cases
 This console-based task manager is ideal for users who want to:
